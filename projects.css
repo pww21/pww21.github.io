@@ -1,0 +1,21 @@
+.flexContent,.menueContents{
+display: flex;
+flex-direction: row;
+align-items: center;
+flex-wrap: wrap;
+}
+.content{
+font-size:25px;
+width:120px;
+background-color:#f2f2f2;
+box-shadow: 4px 4px grey;
+margin:10px;
+}
+.buttoncd{
+text-align:center;
+border-style:solid;
+background-color:#13e01373;
+}
+.builhow{
+font-size:17px;
+}

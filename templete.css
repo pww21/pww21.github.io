@@ -1,0 +1,38 @@
+*{
+margin:0px;
+}
+#mainFlex{
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+#menue{
+font-size:35px;
+}
+.menueContents{
+display: flex;
+flex-direction: row;
+align-items: center;
+flex-wrap: wrap;
+}
+.menueContents{
+background-color:#e6e6e6;
+border-style:solid;
+border-width:1px;
+line-height:50px;
+}
+.choosing,.menueContents{
+margin-left:30px;
+margin-right:30px;
+font-size:25px;
+}
+.lineup{
+display: flex;
+flex-flow: row wrap;
+justify-content: space-around;
+align-items:center;
+}
+.par{
+margin:10px;
+text-align:center;
+}
